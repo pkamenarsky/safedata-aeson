@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Data.SafeCopy.Aeson where
+module Data.SafeData.Aeson where
 
 import qualified Data.Aeson           as A
 import qualified Data.HashMap.Strict  as H
